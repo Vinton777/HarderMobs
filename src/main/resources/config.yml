@@ -10,6 +10,6 @@ messages:
 
 stats:
   default:
-    normal-damage: 2.0 #урон моба в обычном состоянии
-    powered-damage: 5.0 #урон при усилении
-    health-multiplier: 1.5 #множитель максимального HP
+    normal-damage: 1.0
+    powered-damage: 2.0   # x2 урон
+    health-multiplier: 2.0

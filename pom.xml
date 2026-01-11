@@ -7,7 +7,7 @@
 
     <groupId>me.vinton777</groupId>
     <artifactId>hardermobs</artifactId>
-    <version>0.1.1</version>
+    <version>0.1.2</version>
     <packaging>jar</packaging>
 
     <name>HarderMobs</name>
