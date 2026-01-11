@@ -1,0 +1,15 @@
+days:
+  enable-after: 3
+  duration: 2
+
+messages:
+  enabled: "&c⚠ Враждебные мобы усилены!"
+  disabled: "&a✔ Мобы снова обычные"
+  manual-enabled: "&6⚡ Администратор усилил мобов!"
+  manual-disabled: "&e⛔ Администратор отключил усиление"
+
+stats:
+  default:
+    normal-damage: 2.0
+    powered-damage: 5.0
+    health-multiplier: 1.5

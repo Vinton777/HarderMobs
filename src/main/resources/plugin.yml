@@ -1,0 +1,17 @@
+name: HarderMobs
+version: 0.1.0
+main: me.vinton777.hardermobs.HarderMobs
+api-version: 1.19
+authors: [ Vinton777 ]
+description: Makes all hostile mobs stronger temporarily
+folia-supported: true
+
+commands:
+  hardermobs:
+    description: Control HarderMobs
+    usage: /hardermobs <on|off|reload>
+
+permissions:
+  hardermobs.admin:
+    description: Admin access to HarderMobs
+    default: op
