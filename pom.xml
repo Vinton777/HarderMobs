@@ -8,10 +8,21 @@
     <groupId>me.vinton777</groupId>
     <artifactId>hardermobs</artifactId>
     <version>0.1.0</version>
+    <packaging>jar</packaging>
+
+    <name>HarderMobs</name>
 
     <properties>
         <java.version>17</java.version>
     </properties>
+
+    <!-- 🔥 ВАЖНО -->
+    <repositories>
+        <repository>
+            <id>papermc</id>
+            <url>https://repo.papermc.io/repository/maven-public/</url>
+        </repository>
+    </repositories>
 
     <dependencies>
         <dependency>
